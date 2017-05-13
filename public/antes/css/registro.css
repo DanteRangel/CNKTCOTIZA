@@ -1,0 +1,42 @@
+#registro .form-control{
+
+	    box-shadow: none;
+    font-size: 140%;
+    border-left:0;
+    border-right:0;
+    border-top:0;
+    background:transparent;
+}
+
+#boton{
+    font-size: 120%;
+    background-color: #F2F2F2;
+    color: #C5C5C5;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: none;
+}
+.sucursales /*estilos para cada caja unitaria de cada usuario que se muestra*/
+{
+
+padding:2px;
+padding-left:6px; 
+text-decoration:none;
+color:#00AFAA; 
+}
+a, a:hover{
+    text-decoration: none;
+}
+
+.sucursales:hover /*estilos para cada caja unitaria de cada usuario que se muestra. cuando el mause se pocisiona sobre el area*/
+{
+background: #7f93bc;
+color: white;
+text-decoration: none;
+}
+
+.btn-eliminar{
+    border-radius: 5px;
+
+
+}
